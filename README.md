@@ -1,4 +1,4 @@
-# AtividadeFormulario
+# Atividade Formulario
 Formulário para atividade FMU
 
 O formulário foi criado tendo em vista a necessidade de ter um *reminder* para quando fosse aberta a pré-venda de ingressos para jogos da NFL no Brasil, por sem um evento não tão comum de acontecer no brasil, os ingressos para o kick off da temporada 24/25 na Neo Química Arena se esgotaram em pouquissimas horas e diversos torcedores do esporte não puderam ir ao jogo por terem perdido as datas/horários de venda dos ingressos. O nosso site tem a intenção de enviar um lembrete para o torcedor de não perder as datas de venda dos ingressos e dos jogos.
