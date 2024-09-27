@@ -15,7 +15,7 @@ Nosso projeto até o momento não contempla diretrizes de limitação de caracte
 
 Os integrantes do grupo são:
 
-2025589 - Olavo Crispim
 2032163 - Augusto Santos Preto
 1898835 - Enzo Freitas Sindona
 1968864 - Matheus Pereira dos Santos
+2025589 - Olavo Crispim
